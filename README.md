@@ -6,6 +6,7 @@ A lightweight, efficient Kotlin library for hierarchical permission management u
 
 KPermissions provides a flexible system for declaring, checking, and compressing permission structures in applications that require fine-grained access control. It uses an intuitive dot-notation syntax with wildcard support to represent permission hierarchies.
 
+Developed by [kioskware.co](kioskware.co) - company delivering professional Android kiosk software and hardware. Based in Poland 🇵🇱
 ## Installation
 
 Add JitPack repository to your build file:
